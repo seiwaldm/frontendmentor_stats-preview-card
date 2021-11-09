@@ -1,6 +1,6 @@
 @font-face {
   font-family: Inter;
-  src: url("/fonts/inter-variable.ttf");
+  src: url("fonts/inter-variable.ttf");
 }
 
 @font-face {
@@ -51,7 +51,7 @@
       hsla(277, 95%, 44%, 0.4),
       hsla(277, 95%, 44%, 0.4)
     ),
-    url("/images/image-header-desktop.jpg");
+    url("images/image-header-desktop.jpg");
   background-size: cover;
 }
 
