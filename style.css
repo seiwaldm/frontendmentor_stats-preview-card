@@ -101,10 +101,6 @@
 }
 
 @media (max-width: 1200px) {
-  .modal-bg {
-    padding: 2rem 23px;
-  }
-
   .heading {
     font-size: 1.75rem;
     line-height: 2rem;
@@ -113,7 +109,7 @@
     display: flex;
     flex-direction: column-reverse;
     /* for screenwidth 375px */
-    width: 329px;
+    width: 330px;
     height: unset;
     margin: 2rem auto;
   }
